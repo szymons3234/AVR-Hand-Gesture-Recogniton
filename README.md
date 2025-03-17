@@ -66,10 +66,10 @@ System rozpoznawania gestów wykorzystuje **OpenCV** oraz **wytrenowany model uc
 
 ## 🎥 Demo
 ### 📹 Video / Wideo
-![Schema](schema.png)
+
 
 ### 🖼️ Screenshots / Zrzuty ekranu
-[Placeholder for images]
+![Schema](schema.png)
 
 ## 🤝 Contribution / Współpraca
 Feel free to contribute by improving gesture detection accuracy or enhancing the hardware setup. Open a pull request with your modifications!
